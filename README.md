@@ -1,7 +1,7 @@
 [![Discord][SVG-Discord]][Discord]
-[![PayPal][SVG-PayPal]][PayPal]
 [![Wago][SVG-Wago]][Wago]
 [![Dat][SVG-Dat]][Dat]
+[![PayPal][SVG-PayPal]][PayPal]
 
 ### Hi there 👋
 
@@ -21,6 +21,6 @@ My dream is to one day work in the Gaming Industry and I'm working everyday to o
 [//]: # (Images)
 
 [SVG-Discord]: https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=fff&style=flat-square
-[SVG-PayPal]: https://custom-icon-badges.demolab.com/badge/-Donate-lightgrey?style=flat-square&logo=paypal&color=007CB1
+[SVG-PayPal]: https://custom-icon-badges.demolab.com/badge/-PayPal-lightgrey?style=flat-square&logo=paypal&color=007CB1
 [SVG-Wago]: https://custom-icon-badges.demolab.com/badge/-WeakAuras-lightgrey?style=flat-square&logo=weakauras&color=22283D
 [SVG-Dat]: https://custom-icon-badges.demolab.com/badge/-WoW_Addon-lightgrey?style=flat-square&logo=dat&color=ff5c19
