@@ -20,7 +20,7 @@ My dream is to one day work in the Gaming Industry and I'm working everyday to o
 [Github]: https://github.com/Jods-GH (The Github Org i use to host public Repositories)
 
 [//]: # (Images)
-[SVG-Github]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[SVG-Github]: https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white
 [SVG-Discord]: https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=fff&style=flat-square
 [SVG-PayPal]: https://custom-icon-badges.demolab.com/badge/-PayPal-lightgrey?style=flat-square&logo=paypal&color=007CB1
 [SVG-Wago]: https://custom-icon-badges.demolab.com/badge/-WeakAuras-lightgrey?style=flat-square&logo=weakauras&color=22283D
