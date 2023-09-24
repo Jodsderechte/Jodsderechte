@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 I'm Jods and have been a Gaming enthusiast for more then a decade. Currently I'm studying applied Informatics and doing WoW-Ui Stuff in my spare time. 
-My dream is to create the best Software possible and I'm working everyday to one day make this dream a reality. 
+My dream is to one day work in the Gaming Industry and I'm working everyday to one day make this dream a reality.
 
 Find most of my public repositorys on my [Github-Organisation](https://github.com/Jods-GH)
 
