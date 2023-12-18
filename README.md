@@ -8,9 +8,6 @@
 
 I'm Jods and have been a Gaming enthusiast for more then a decade. Currently I'm studying applied Informatics and doing WoW-Ui Stuff and Ark modding in my spare time. 
 
-<a href="Top Languages">
-  <img height=230 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jodsderechte&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github&include_all_commits=true" />
-</a>
 Find most of my public repositorys on my [Github-Organisation](https://github.com/Jods-GH)
 
 [//]: # (Links)
