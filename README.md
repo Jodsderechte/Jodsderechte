@@ -1,6 +1,6 @@
 [![Discord][SVG-Discord]][Discord]
 [![Wago][SVG-Wago]][Wago]
-[![Addons][Addons]][Addons]
+[![Addons][SVG-Addons]][Addons]
 [![PayPal][SVG-PayPal]][PayPal]
 [![Github][SVG-Github]][Github]
 
