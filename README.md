@@ -10,6 +10,11 @@ I'm Jods and have been a Gaming enthusiast for more then a decade. Currently I'm
 
 Find most of my public repositorys on my [Github-Organisation](https://github.com/Jods-GH)
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+
 [//]: # (Links)
 
 [Discord]: https://discord.com/invite/v3gYmYamGJ (Join the Discord)
